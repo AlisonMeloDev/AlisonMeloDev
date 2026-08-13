@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/AlisonMeloDev">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%3E+Desenvolvedor+Backend;%3E+Apaixonado+por+Tecnologia;%3E+Java+%7C+Spring+Boot+%7C+MySQL;%3E+Construindo+solucoes+escalaveis..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%3E+Desenvolvedor+Backend;;%3E+Java+%7C+Spring+Boot+%7C+MySQL;%3E+Construindo+solucoes+escalaveis..." alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -44,7 +44,7 @@ Recentemente, consolidei e expandi meus conhecimentos aplicando **Java, Spring B
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,postman,discord&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,postman" alt="Tech Stack" />
   <br><br>
 </div>
 
