@@ -57,10 +57,12 @@ Recentemente, consolidei e expandi meus conhecimentos aplicando **Java, Spring B
 ## 🚀 ❖ [PROJECTS.LOG] Projetos Recentes
 
 <div align="center">
-  
-[![API Lista Animes](https://github-readme-stats.vercel.app/api/pin/?username=AlisonMeloDev&repo=api-lista-animes&bg_color=0D1117&title_color=00FFCC&text_color=a0a0a0&icon_color=BF00FF&border_color=00FFCC&border_radius=10)](https://github.com/AlisonMeloDev/api-lista-animes)
-[![Sistema Cashback](https://github-readme-stats.vercel.app/api/pin/?username=AlisonMeloDev&repo=SistemaCashbackPOO-AnhembiMorumbi&bg_color=0D1117&title_color=00FFCC&text_color=a0a0a0&icon_color=BF00FF&border_color=00FFCC&border_radius=10)](https://github.com/AlisonMeloDev/SistemaCashbackPOO-AnhembiMorumbi)
-
+  <a href="https://github.com/AlisonMeloDev/api-lista-animes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlisonMeloDev&repo=api-lista-animes&bg_color=0D1117&title_color=00FFCC&text_color=a0a0a0&icon_color=BF00FF&border_color=00FFCC&border_radius=10" alt="API Lista Animes"/>
+  </a>
+  <a href="https://github.com/AlisonMeloDev/SistemaCashbackPOO-AnhembiMorumbi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlisonMeloDev&repo=SistemaCashbackPOO-AnhembiMorumbi&bg_color=0D1117&title_color=00FFCC&text_color=a0a0a0&icon_color=BF00FF&border_color=00FFCC&border_radius=10" alt="Sistema Cashback"/>
+  </a>
 </div>
 
 ---
@@ -68,14 +70,14 @@ Recentemente, consolidei e expandi meus conhecimentos aplicando **Java, Spring B
 ## 📊 ❖ [DATA.ANALYTICS] GitHub Stats
 
 <div align="center">
-  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AlisonMeloDev&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/AlisonMeloDev)
+  <img src="https://github-profile-trophy.vercel.app/?username=AlisonMeloDev&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+</div>
 
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlisonMeloDev&show_icons=true&bg_color=0D1117&title_color=00FFCC&text_color=ffffff&icon_color=BF00FF&border_color=00FFCC&border_radius=10)](https://github.com/AlisonMeloDev)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonMeloDev&layout=compact&bg_color=0D1117&title_color=00FFCC&text_color=ffffff&border_color=00FFCC&border_radius=10)](https://github.com/AlisonMeloDev)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlisonMeloDev&show_icons=true&bg_color=0D1117&title_color=00FFCC&text_color=ffffff&icon_color=BF00FF&border_color=00FFCC&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonMeloDev&layout=compact&bg_color=0D1117&title_color=00FFCC&text_color=ffffff&border_color=00FFCC&border_radius=10" alt="Top Languages" width="48%" />
 </div>
 
 ---
