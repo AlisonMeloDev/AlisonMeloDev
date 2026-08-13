@@ -80,6 +80,18 @@ Recentemente, consolidei e expandi meus conhecimentos aplicando **Java, Spring B
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonMeloDev&layout=compact&bg_color=0D1117&title_color=00FFCC&text_color=ffffff&border_color=00FFCC&border_radius=10" alt="Top Languages" width="48%" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlisonMeloDev&theme=dark&background=0D1117&border=00FFCC&ring=BF00FF&fire=00FFCC&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlisonMeloDev&bg_color=0D1117&color=00FFCC&line=BF00FF&point=ffffff&area=true&hide_border=false&border_color=00FFCC" alt="Activity Graph" width="100%" />
+</div>
+
 ---
 
 ## 🐍 ❖ [CONTRIB.MATRIX] Snake Animation
